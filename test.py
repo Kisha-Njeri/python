@@ -1,0 +1,5 @@
+print("Welcome to Python programming")
+print(5+10)
+print(5*10)
+print(5/10)
+print("Python programming!!")
